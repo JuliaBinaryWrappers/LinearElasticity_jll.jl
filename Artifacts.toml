@@ -1,0 +1,143 @@
+[[LinearElasticity]]
+arch = "aarch64"
+git-tree-sha1 = "0561fb98167bb2b991693655136cabd30fd63cf7"
+os = "macos"
+
+    [[LinearElasticity.download]]
+    sha256 = "b75e0601459d19c25772d399fffb7edcfb6e8c18f2870da8f85417653cb8f16c"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.aarch64-apple-darwin.tar.gz"
+[[LinearElasticity]]
+arch = "aarch64"
+git-tree-sha1 = "cd7004178aed817508af3a5e9dc48e292f260bba"
+libc = "glibc"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "de320b525d145d6251f3b07c09d54439e6cf0f78fa0d1101d55556aa07f94ee9"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.aarch64-linux-gnu.tar.gz"
+[[LinearElasticity]]
+arch = "aarch64"
+git-tree-sha1 = "326792d1a3780bde611d6403b1a34b79d614f251"
+libc = "musl"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "15d0027e1c998de43c237ee71149658bddd0c9b8cdded59c9e024a1561948fb3"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.aarch64-linux-musl.tar.gz"
+[[LinearElasticity]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a041751cb8915c0d5a1b07a1b58489f2fe6615b2"
+libc = "glibc"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "08f534a4866075263421167e5d39288042bc411d4d0ad9dccba0a2003a81e581"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[LinearElasticity]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "df0981788d69096286c94b4182e50726f01dd07e"
+libc = "musl"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "99f1645f366eb7c8bdf0ee4d0ab70d9e973b53f3d368744bb710c12bf90074ae"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.armv6l-linux-musleabihf.tar.gz"
+[[LinearElasticity]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "de18eae6ef2c062f24129ce087866e5e5fd70636"
+libc = "glibc"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "56edd93652677c97a26b5a4f9a9312ebff26a4cd8cadfd5142fade1ce34f7c84"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[LinearElasticity]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b917998d837b3f36ff3ff651e0d1665b48b2c7ab"
+libc = "musl"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "66fa71d50f8fa18e4a9a298f68be6de814e2650e9175331832d2188f426d377d"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.armv7l-linux-musleabihf.tar.gz"
+[[LinearElasticity]]
+arch = "i686"
+git-tree-sha1 = "52979139f4cc62998039c15ad9597c98a60d98ae"
+libc = "glibc"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "b5bb1ff8ca4063e1e03dafb3b7b1031fb38332ff8190d8719d1305a97bd7f3b9"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.i686-linux-gnu.tar.gz"
+[[LinearElasticity]]
+arch = "i686"
+git-tree-sha1 = "0059981d68a8337261a2efce65ead98f8ad94c1a"
+libc = "musl"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "043e12552c5684d1c590b5e4585b80b67ca405abbe3cb7f0382abc176b8fd423"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.i686-linux-musl.tar.gz"
+[[LinearElasticity]]
+arch = "i686"
+git-tree-sha1 = "3f0919c24170d36850ad2014462fa508347c5a5a"
+os = "windows"
+
+    [[LinearElasticity.download]]
+    sha256 = "99e4a191a9e9a41724b8834ee067d14ae824fb425a4953d24cd52e848d16aefe"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.i686-w64-mingw32.tar.gz"
+[[LinearElasticity]]
+arch = "powerpc64le"
+git-tree-sha1 = "b757ef688b4275eae68787474158aa09d1b0c50f"
+libc = "glibc"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "03eef79d439a524eace52c3cc15cbc599e674e14b51d0eeea46b00345f915d59"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.powerpc64le-linux-gnu.tar.gz"
+[[LinearElasticity]]
+arch = "x86_64"
+git-tree-sha1 = "3bfc3340a463e1a64df7cff0e1fff4f85244d30a"
+os = "macos"
+
+    [[LinearElasticity.download]]
+    sha256 = "367041a03f9e622101d844c5c342d553ea378c28a1255e597b2dffdb5062c7fc"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.x86_64-apple-darwin.tar.gz"
+[[LinearElasticity]]
+arch = "x86_64"
+git-tree-sha1 = "b4767eec4b056f66ffbde536c4fdc08454418b46"
+libc = "glibc"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "7aa99c6ee165e3d75239f85e4dd98de8ec2e42fafe78aa3f011b8a7e0ea4cbf8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.x86_64-linux-gnu.tar.gz"
+[[LinearElasticity]]
+arch = "x86_64"
+git-tree-sha1 = "29e50775ad5d0022d54b3bcd768173dd16b74ad3"
+libc = "musl"
+os = "linux"
+
+    [[LinearElasticity.download]]
+    sha256 = "8055bdf518b5c012596b161600dad875ec705734cf992da49f390ffb7819a4a7"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.x86_64-linux-musl.tar.gz"
+[[LinearElasticity]]
+arch = "x86_64"
+git-tree-sha1 = "58fff06ee8adb5f657d458132d7d39af9b719af0"
+os = "freebsd"
+
+    [[LinearElasticity.download]]
+    sha256 = "3b032cc09a160178c50b08e693198398b4d9144da8dba7d7de3c27a3c0de9ffc"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.x86_64-unknown-freebsd.tar.gz"
+[[LinearElasticity]]
+arch = "x86_64"
+git-tree-sha1 = "8160000bbf7f358d2e0b773aebecddd1af8e1c5d"
+os = "windows"
+
+    [[LinearElasticity.download]]
+    sha256 = "c9a01028c2910838fd157c045b8a668eba1881c3648de7d9ccf2b8f58da0ea82"
+    url = "https://github.com/JuliaBinaryWrappers/LinearElasticity_jll.jl/releases/download/LinearElasticity-v5.0.0+0/LinearElasticity.v5.0.0.x86_64-w64-mingw32.tar.gz"
